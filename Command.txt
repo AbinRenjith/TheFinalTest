@@ -1,0 +1,4 @@
+Created a folder called Final Test
+Created a txt file called MyFile and added my name, student id, date and time in the file.
+Created a txt file called Command and recorded my previous step
+Created a folders called Info using mkdir Info, and two sub files called InfoFile1 and InfoFile2
